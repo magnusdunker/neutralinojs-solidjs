@@ -1,6 +1,3 @@
-# neutralinojs-zero
-An empty Neutralinojs app, extend as you wish
+# neutralinojs-solidjs
+An Neutralinojs app, with solid and typescript
 
-```
-neu create myapp --template neutralinojs/neutralinojs-zero
-```
